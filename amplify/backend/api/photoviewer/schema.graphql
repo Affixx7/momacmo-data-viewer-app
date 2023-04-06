@@ -1,0 +1,12 @@
+type ImageFrame @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  project: String
+  folder: String
+  dataset: String
+  volume: Int
+  frame: Int
+  scaleMin: Int
+  scaleMax: Int
+  colorScale: String
+  format: String
+}

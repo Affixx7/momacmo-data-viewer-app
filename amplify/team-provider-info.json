@@ -1,0 +1,32 @@
+{
+  "macos": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-photoviewer-macos-194336-authRole",
+      "UnauthRoleArn": "arn:aws:iam::694027992080:role/amplify-photoviewer-macos-194336-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::694027992080:role/amplify-photoviewer-macos-194336-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-photoviewer-macos-194336-deployment",
+      "UnauthRoleName": "amplify-photoviewer-macos-194336-unauthRole",
+      "StackName": "amplify-photoviewer-macos-194336",
+      "StackId": "arn:aws:cloudformation:us-east-1:694027992080:stack/amplify-photoviewer-macos-194336/acad4970-fcc4-11ec-93cc-0eaf41dd04e1",
+      "AmplifyAppId": "d1y8a0nj8pvdpb"
+    },
+    "categories": {
+      "auth": {
+        "photoviewerf2ea1f67": {},
+        "true": {},
+        "userPoolGroups": {}
+      },
+      "storage": {
+        "photoviewer552f2ea4": {
+          "bucketName": "momacmos3",
+          "region": "us-east-1"
+        },
+        "photoviewer42cdc460": {
+          "bucketName": "intern-arnav",
+          "region": "us-east-1"
+        }
+      }
+    }
+  }
+}

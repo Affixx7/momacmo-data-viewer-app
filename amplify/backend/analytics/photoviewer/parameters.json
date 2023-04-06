@@ -1,0 +1,21 @@
+{
+    "appName": "photoviewer",
+    "roleName": "pinpointLambdaRolecfcec261",
+    "cloudformationPolicyName": "cloudformationPolicycfcec261",
+    "cloudWatchPolicyName": "cloudWatchPolicycfcec261",
+    "pinpointPolicyName": "pinpointPolicycfcec261",
+    "authPolicyName": "pinpoint_amplify_cfcec261",
+    "unauthPolicyName": "pinpoint_amplify_cfcec261",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

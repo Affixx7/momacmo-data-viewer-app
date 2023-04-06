@@ -1,4 +1,4 @@
-# photo_viewer
+# momacmo-data-viewer-app
 
 A new Flutter project.
 

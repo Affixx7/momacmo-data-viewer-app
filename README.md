@@ -1,6 +1,10 @@
 # momacmo-data-viewer-app
+All the project code is included for debugging reasons, but
 
-A new Flutter project.
+Only need the following from the project, 
+- lib/ 
+- assets/ 
+- copy paste dependecies from the pubspec.yaml
 
 ## Getting Started
 

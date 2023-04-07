@@ -6,6 +6,7 @@ Only need the following from the project,
 - assets/ 
 - copy paste dependecies from the pubspec.yaml
 
+AWS amplify must be initialized from the end user computer
 ## Getting Started
 
 This project is a starting point for a Flutter application.
